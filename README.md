@@ -10,13 +10,13 @@ Repository for implementing common algorithms in Python
    3. Selection Sort
    4. Quick Sort
 2. Searching Algorithms:
-   1. [Linear Search](./algos/searching_algos/linear/README.md)
-   2. [Binary Search](./algos/searching_algos/binary/README.md)
-   3. [Jump Search](./algos/searching_algos/jump/README.md)
+   1. [Linear Search](./linear_search/README.md)
+   2. [Binary Search](./binary_search/README.md)
+   3. [Jump Search](./jump_search/README.md)
 
 ## Tools used
 
-This repo uses [[poetry](https://python-poetry.org/) to manage all the dependencies for each subproject.
+This repo uses [poetry](https://python-poetry.org/) to manage all the dependencies for each subproject.
 
 ## Contributing
 
