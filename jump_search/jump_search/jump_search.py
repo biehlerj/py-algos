@@ -1,7 +1,8 @@
 from math import floor, sqrt
+from typing import List
 
 
-def jump_search(arr: list[int], arr_len: int, target: int) -> int:
+def jump_search(arr: List[int], arr_len: int, target: int) -> int:
     """Finds the target value in an array of arr_len
 
     Parameters
