@@ -3,7 +3,7 @@ import unittest
 from leetcode_arrays.plus_one.plus_one import plusOne
 
 
-class MyTestCase(unittest.TestCase):
+class TestPlusZero(unittest.TestCase):
     test_arrays = [[1, 2, 3], [4, 3, 2, 1], [9]]
     test_output_arrays = [[1, 2, 4], [4, 3, 2, 2], [1, 0]]
 
