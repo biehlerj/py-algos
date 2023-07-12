@@ -5,7 +5,15 @@ description = "Array questions from Leetcode"
 authors = ["Jacob Biehler <jacob@biehlerj.xyz>"]
 license = "MIT"
 readme = "README.md"
-packages = [{ include = "remove_dupes" }]
+packages = [
+    { include = "array_intersection" },
+    { include = "contains_dupe" },
+    { include = "max_profit" },
+    { include = "plus_one" },
+    { include = "remove_dupes" },
+    { include = "rotate_array" },
+    { include = "single_number" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.11"
